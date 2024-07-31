@@ -41,4 +41,17 @@
             <layout>default</layout>
         </repository>
     </repositories>
+    <pluginRepositories>
+        <pluginRepository>
+            <id>isharkfly</id>
+            <name>isharkfly maven</name>
+            <url>https://repo.isharkfly.com/repository/maven-public/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </pluginRepository>
+    </pluginRepositories>
 </project>

@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48cc3daf-b49c-4e8e-a414-c95b04c77124" name="Changes" comment="delete the jar lab and try to update package from private repo">
+    <list default="true" id="48cc3daf-b49c-4e8e-a414-c95b04c77124" name="Changes" comment="clean up project by only use IDEA">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/intersystems/samples/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intersystems/samples/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +14,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="clean-up" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -28,7 +33,7 @@
   "keyToString": {
     "Application.HelloWorld.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -56,6 +61,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -74,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716613044992</updated>
-      <workItem from="1722456981993" duration="2623000" />
+      <workItem from="1722456981993" duration="3848000" />
     </task>
     <task id="LOCAL-00001" summary="not all version of JDBC can be found and run">
       <option name="closed" value="true" />
@@ -100,7 +106,31 @@
       <option name="project" value="LOCAL" />
       <updated>1722459412869</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="due to use our repo, so we set different repo for this project to">
+      <option name="closed" value="true" />
+      <created>1722459724618</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722459724618</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init submit all new file and all cleaned files">
+      <option name="closed" value="true" />
+      <created>1722459768127</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722459768127</updated>
+    </task>
+    <task id="LOCAL-00006" summary="clean up project by only use IDEA">
+      <option name="closed" value="true" />
+      <created>1722459930330</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722459930330</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +140,9 @@
     <MESSAGE value="not all version of JDBC can be found and run" />
     <MESSAGE value="user stand gitignore file for project" />
     <MESSAGE value="delete the jar lab and try to update package from private repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete the jar lab and try to update package from private repo" />
+    <MESSAGE value="due to use our repo, so we set different repo for this project to" />
+    <MESSAGE value="init submit all new file and all cleaned files" />
+    <MESSAGE value="clean up project by only use IDEA" />
+    <option name="LAST_COMMIT_MESSAGE" value="clean up project by only use IDEA" />
   </component>
 </project>
