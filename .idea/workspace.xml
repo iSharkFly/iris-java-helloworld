@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48cc3daf-b49c-4e8e-a414-c95b04c77124" name="Changes" comment="clean up project by only use IDEA">
+    <list default="true" id="48cc3daf-b49c-4e8e-a414-c95b04c77124" name="Changes" comment="Update the pom.xml for plugin repo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,12 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "java.sql.Driver",
+      "intersystemsiris"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -80,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716613044992</updated>
-      <workItem from="1722456981993" duration="3848000" />
+      <workItem from="1722456981993" duration="5088000" />
     </task>
     <task id="LOCAL-00001" summary="not all version of JDBC can be found and run">
       <option name="closed" value="true" />
@@ -130,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722459930330</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update the pom.xml for plugin repo">
+      <option name="closed" value="true" />
+      <created>1722469595252</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722469595252</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +156,7 @@
     <MESSAGE value="due to use our repo, so we set different repo for this project to" />
     <MESSAGE value="init submit all new file and all cleaned files" />
     <MESSAGE value="clean up project by only use IDEA" />
-    <option name="LAST_COMMIT_MESSAGE" value="clean up project by only use IDEA" />
+    <MESSAGE value="Update the pom.xml for plugin repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update the pom.xml for plugin repo" />
   </component>
 </project>

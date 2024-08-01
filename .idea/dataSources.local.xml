@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-241.17011.79">
+    <data-source name="USER@raspberrypi" uuid="eae84a1a-7372-4b9d-91ba-4f9645bd68ef">
+      <database-info product="InterSystems IRIS" version="InterSystems IRIS Version 2024.1.0.267.2 xDBC Protocol Version 67" jdbc-version="4.2" driver-name="InterSystems IRIS JDBC" driver-version="2020.3.0.221" dbms="IRIS" exact-version="2024.1" exact-driver-version="2020.3">
+        <extra-name-characters>%</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>_SYSTEM</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="database" qname="@">
+            <node kind="schema" qname="@" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>
